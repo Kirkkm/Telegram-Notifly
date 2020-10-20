@@ -6,7 +6,7 @@ email, or any other method with the owners of this repository before making a ch
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 
-**Please do not work on significant changes or features without first ensuring that the changes are desired.** If there isn't already an issue related to the change you're intending to make, please [create one first](https://github.com/t0xic0der/pignus-framework-vulnerability-detector/issues/new) to discuss your plans. Similarly, even when there *is* already an issue, if the specifics of how it should work aren't clear, please try to sort that out first (by posting comments on the issue) before doing the work.
+**Please do not work on significant changes or features without first ensuring that the changes are desired.** If there isn't already an issue related to the change you're intending to make, please [create one first](https://github.com/rexdivakar/Telegram-Notifly/issues/new) to discuss your plans. Similarly, even when there *is* already an issue, if the specifics of how it should work aren't clear, please try to sort that out first (by posting comments on the issue) before doing the work.
 
 In general, anything beyond straightforward fixes and adjustments should have an associated issue. This is for everyone's benefit—it ensures that you don't waste effort working on changes that won't be accepted, and makes it easier for other contributors to see what's already being worked on.
 
